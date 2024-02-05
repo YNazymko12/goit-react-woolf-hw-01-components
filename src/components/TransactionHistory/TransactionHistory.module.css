@@ -1,0 +1,19 @@
+.transaction {
+  margin: 50px auto;
+  width: 560px;
+}
+
+thead {
+  text-transform: uppercase;
+  background-color: rgb(76, 194, 215);
+  color: #fff;
+}
+
+tr {
+  text-align: center;
+  height: 45px;
+}
+
+tr:nth-child(2n) {
+  background-color: #f1f1f1;
+}

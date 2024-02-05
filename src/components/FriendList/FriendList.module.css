@@ -1,0 +1,8 @@
+.list {
+  width: 360px;
+  margin: 50px auto 0;
+  padding: 64px 48px;
+  background-color: #fff7dd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
